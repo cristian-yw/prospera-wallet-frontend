@@ -322,7 +322,7 @@ function Detail() {
                   type="text"
                   name="nominal"
                   id="nominal"
-                  placeholder="Enter Nominal Top Up"
+                  placeholder="Enter Nominal Transfer"
                   value={nominal}
                   onChange={handleNominalChange}
                   className="border rounded-lg py-2 px-10 my-2 w-full focus:outline-none"
